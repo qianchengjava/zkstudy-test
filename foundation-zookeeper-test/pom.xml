@@ -39,8 +39,8 @@
 		<!-- 自己的zookeeper组件加入进来 -->
 		<dependency>
 			<groupId>com.qc</groupId>
-			<artifactId>foundation-zookeeper</artifactId>
-			<version>0.0.1-SNAPSHOT</version>			
+			<artifactId>qc.zk</artifactId>
+			<version>0.0.3-SNAPSHOT</version>
 		</dependency>
 		 <!-- 顺序UUID -->
          <dependency>
