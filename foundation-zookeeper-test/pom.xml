@@ -38,7 +38,7 @@
 		
 		<!-- 自己的zookeeper组件加入进来 -->
 		<dependency>
-			<groupId>com.bfxy</groupId>
+			<groupId>com.qc</groupId>
 			<artifactId>foundation-zookeeper</artifactId>
 			<version>0.0.1-SNAPSHOT</version>			
 		</dependency>
